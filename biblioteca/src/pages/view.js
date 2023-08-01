@@ -1,3 +1,7 @@
+import Layout from "../components/layout";
+
 export default function View(){
-    return <div>bview</div>
+    return <Layout>
+        View
+    </Layout>
 }
